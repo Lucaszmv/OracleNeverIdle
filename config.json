@@ -1,0 +1,13 @@
+{
+  "script_settings": {
+    "cpu_usage_target_percent": 30,
+    "memory_usage_target_percent": 30,
+    "execution_interval_minutes": 30
+  },
+  "logging_settings": {
+    "log_filename": "neveridle.log",
+    "log_level": "INFO",
+    "log_max_mb": 10,
+    "log_backup_count": 0
+  }
+} 
